@@ -40,7 +40,7 @@
  }
  button{
     background-color: rgb(50, 135, 192);
-    color:white;
+    color:red;
     cursor:pointer;
     transition:all .5s;
  }
